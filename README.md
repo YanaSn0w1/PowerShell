@@ -19,7 +19,4 @@ Option B – Double click .ps1 file (recommended)
 
 Save the script below as Micro Edit X Vid.ps1 inside the process folder
 
-From now on just put the videos in the process folder then double click Micro Edit X Vid.ps1
-
-cd ~/Videos/process
-.\process_for_x.ps1
+Put the videos in the process folder then double click Micro Edit X Vid.ps1
