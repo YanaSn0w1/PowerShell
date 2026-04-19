@@ -11,6 +11,18 @@
 
 - Very light noise (5% grain) → adds invisible random pixels that destroy perceptual hashing (the main thing X uses to detect reposts).
 
+### 2 Forces even dimensions at the end (the fix we added) so FFmpeg doesn’t throw the “width not divisible by 2” error.
+
+### 3 Re-encodes the video cleanly:
+
+- Same resolution as the original (or very close).
+
+- High quality (CRF 19 = visually lossless for most people).
+
+- Medium speed preset (good balance between quality and file size).
+
+- Audio stays untouched except re-packaged as AAC.
+
 # [PayPal-Donations](https://www.paypal.com/donate/?hosted_button_id=9LWWH273HEVC4 "Donate to YanaHeat") ⬅️
 # [Micro Edit X Vid](https://github.com/YanaSn0w1/PowerShell/blob/main/Micro%20Edit%20X%20Vid.ps1 "Micro Edit X Vid") ⬅️
 
