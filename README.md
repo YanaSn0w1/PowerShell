@@ -23,4 +23,6 @@ Option B – Paste every time
 
 Open PowerShell,  paste the whole script and press Enter.
 
+Must enable file extensions at least once to save as .ps1
 
+File Explorer → View → Show → check **File name extensions**
