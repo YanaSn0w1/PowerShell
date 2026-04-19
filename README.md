@@ -15,14 +15,10 @@ Put the videos in this folder then double click Micro Edit X Vid.ps1
 ### 3. Run the script
 Option A – Double click .ps1 file (recommended)
 
-Create new text file in the process folder, name it Micro Edit X Vid.ps1
+Enable file extensions to save as .ps1. File Explorer → View → Show → check **File name extensions**
 
-Paste in the script then save.
+Create new text file in the process folder, name it Micro Edit X Vid.ps1
 
 Option B – Paste every time 
 
 Open PowerShell,  paste the whole script and press Enter.
-
-Must enable file extensions at least once to save as .ps1
-
-File Explorer → View → Show → check **File name extensions**
