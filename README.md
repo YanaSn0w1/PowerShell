@@ -17,7 +17,7 @@ Option A – Double click .ps1 file (recommended)
 
 Create new text file in the process folder, name it Micro Edit X Vid.ps1
 
-Paste the script in save and double click it to run.
+Paste in the script then save.
 
 Option B – Paste every time 
 
