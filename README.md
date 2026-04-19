@@ -2,13 +2,9 @@
 ### 1 Makes tiny random changes (different for every single file so X can't pattern-match):
 
 - Slight random zoom (1.02× to 1.05×) → stretches the image by 2–5% so the exact pixel grid no longer matches the original Threads file.
-
 - Tiny random rotation (–0.012° to +0.013°) → just enough to break the frame alignment without looking tilted.
-
 - Micro brightness tweak (–3% to +4%) → subtle overall lighting shift.
-
 - Slight contrast + saturation boost → makes the colors pop a tiny bit more.
-
 - Very light noise (5% grain) → adds invisible random pixels that destroy perceptual hashing (the main thing X uses to detect reposts).
 
 ### 2 Forces even dimensions at the end (the fix we added) so FFmpeg doesn’t throw the “width not divisible by 2” error.
