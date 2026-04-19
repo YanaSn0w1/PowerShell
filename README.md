@@ -39,4 +39,4 @@ Create new text file in the process folder, name it Micro Edit X Vid.ps1
 
 ### Option B – Paste every time 
 
-Open PowerShell,  paste the whole script and press Enter.
+Paste the whole script in PowerShell and press Enter.
