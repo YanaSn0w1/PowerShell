@@ -13,13 +13,14 @@ winget install ffmpeg
 Put the videos in this folder then double click Micro Edit X Vid.ps1
 
 ### 3. Run the script
+Option A – Double click .ps1 file (recommended)
 
-Option A – Paste every time
+Create new text file in the process folder, name it Micro Edit X Vid.ps1
 
-Open PowerShell, go to the folder, then paste the whole script and press Enter.
+Paste the script in save and double click it to run.
 
-Option B – Double click .ps1 file (recommended)  
+Option B – Paste every time 
 
-Save the script below as Micro Edit X Vid.ps1 inside the process folder
+Open PowerShell,  paste the whole script and press Enter.
 
 
