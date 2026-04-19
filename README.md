@@ -9,9 +9,9 @@ Run this in PowerShell:
 winget install ffmpeg
 ```
 
-2. Create this folder: ~/Videos/process
+### 2. Create this folder: ~/Videos/process
 
-3. Run the script
+### 3. Run the script
 
 Option A – Paste every time
 
