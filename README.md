@@ -31,12 +31,12 @@ winget install ffmpeg
 Put the videos in this folder then double click Micro Edit X Vid.ps1
 
 ### 3. Run the script
-Option A – Double click .ps1 file (recommended)
+## Option A – Double click .ps1 file (recommended)
 
 Enable file extensions to save as .ps1. File Explorer → View → Show → check **File name extensions**
 
 Create new text file in the process folder, name it Micro Edit X Vid.ps1
 
-Option B – Paste every time 
+## Option B – Paste every time 
 
 Open PowerShell,  paste the whole script and press Enter.
