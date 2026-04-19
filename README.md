@@ -1,4 +1,11 @@
 ### Circumvent the -90% reach on videos if not original.
+## 1 Makes tiny random changes (different for every single file so X can't pattern-match):
+#Slight random zoom (1.02× to 1.05×) → stretches the image by 2–5% so the exact pixel grid no longer matches the original Threads file.
+#Tiny random rotation (–0.012° to +0.013°) → just enough to break the frame alignment without looking tilted.
+#Micro brightness tweak (–3% to +4%) → subtle overall lighting shift.
+#Slight contrast + saturation boost → makes the colors pop a tiny bit more.
+#Very light noise (5% grain) → adds invisible random pixels that destroy perceptual hashing (the main thing X uses to detect reposts).
+
 
 # [PayPal-Donations](https://www.paypal.com/donate/?hosted_button_id=9LWWH273HEVC4 "Donate to YanaHeat") ⬅️
 # [Micro Edit X Vid](https://github.com/YanaSn0w1/PowerShell/blob/main/Micro%20Edit%20X%20Vid.ps1 "Micro Edit X Vid") ⬅️
