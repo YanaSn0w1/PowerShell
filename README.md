@@ -19,6 +19,8 @@
 - Medium speed preset (good balance between quality and file size).
 - Audio stays untouched except re-packaged as AAC.
 
+# Installation 
+
 ### 1. Install FFmpeg.
 Run this in PowerShell:
 ```powershell
