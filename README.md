@@ -10,6 +10,7 @@ winget install ffmpeg
 ```
 
 ### 2. Create this folder: ~/Videos/process
+Put the videos in this folder then double click Micro Edit X Vid.ps1
 
 ### 3. Run the script
 
@@ -21,4 +22,4 @@ Option B – Double click .ps1 file (recommended)
 
 Save the script below as Micro Edit X Vid.ps1 inside the process folder
 
-Put the videos in the process folder then double click Micro Edit X Vid.ps1
+
