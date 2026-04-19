@@ -3,8 +3,7 @@
 
 ### PowerShell script to circumvent the -90% reach on videos if not original.
 
-### 1. Install FFmpeg (one time)
-Run this in PowerShell:
+### 1. Install FFmpeg. Run this in PowerShell:
 ```powershell
 winget install ffmpeg
 ```
