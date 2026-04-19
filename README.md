@@ -1,5 +1,5 @@
-### Circumvent the -90% reach on videos if not original.
-## 1 Makes tiny random changes (different for every single file so X can't pattern-match):
+## Circumvent the -90% reach on videos if not original.
+### 1 Makes tiny random changes (different for every single file so X can't pattern-match):
 
 - Slight random zoom (1.02× to 1.05×) → stretches the image by 2–5% so the exact pixel grid no longer matches the original Threads file.
 
