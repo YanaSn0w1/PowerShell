@@ -44,5 +44,7 @@ Paste the whole script in PowerShell and press Enter.
 # [PayPal-Donations](https://www.paypal.com/donate/?hosted_button_id=9LWWH273HEVC4 "Donate to YanaHeat") ⬅️ [BouncingLogo](https://github.com/YanaSn0w1/PowerShell/blob/main/BouncingLogo.ps1 "Bouncing Logo") ⬅️
 
 # Description:
-## Circumvent the -90% reach on videos if not original.
-### 1 Makes tiny random changes (different for every single file so X can't pattern-match):
+## Puts a bouncing logo on screen on a video.
+### Setup
+- Put a logo file and a video file in C:\Users\USERNAME\Videos\Logo
+- Save the script in same folder as BouncingLogo.ps1 then double click it or paste the script into powershell 
