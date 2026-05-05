@@ -41,7 +41,7 @@ Create new text file in the process folder, name it Micro Edit X Vid.ps1
 
 Paste the whole script in PowerShell and press Enter.
 
-# [PayPal-Donations](https://www.paypal.com/donate/?hosted_button_id=9LWWH273HEVC4 "Donate to YanaHeat") ⬅️ [BouncingLogo]((https://github.com/YanaSn0w1/PowerShell/blob/main/BouncingLogo.ps1) "Bouncing Logo") ⬅️
+# [PayPal-Donations](https://www.paypal.com/donate/?hosted_button_id=9LWWH273HEVC4 "Donate to YanaHeat") ⬅️ [BouncingLogo](https://github.com/YanaSn0w1/PowerShell/blob/main/BouncingLogo.ps1 "Bouncing Logo") ⬅️
 
 # Description:
 ## Circumvent the -90% reach on videos if not original.
