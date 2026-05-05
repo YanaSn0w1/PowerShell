@@ -40,3 +40,9 @@ Create new text file in the process folder, name it Micro Edit X Vid.ps1
 ### Option B – Paste every time 
 
 Paste the whole script in PowerShell and press Enter.
+
+# [PayPal-Donations](https://www.paypal.com/donate/?hosted_button_id=9LWWH273HEVC4 "Donate to YanaHeat") ⬅️ [BouncingLogo](https://github.com/YanaSn0w1/PowerShell/blob/main/Micro%20Edit%20X%20Vid.ps1 "Micro Edit X Vid") ⬅️
+
+# Description:
+## Circumvent the -90% reach on videos if not original.
+### 1 Makes tiny random changes (different for every single file so X can't pattern-match):
