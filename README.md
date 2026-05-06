@@ -4,7 +4,7 @@
 
 **Turn raw Instagram videos into polished, monetization-friendly X/Twitter content** — with bouncing logo, subtle organic edits, TTS voiceover, and subtitles.
 
-This one-click PowerShell script was built specifically for creators like @YanaHeat who repurpose short videos and want X to treat them as **original content** for full revenue sharing.
+This one-click PowerShell script was built for creators who repurpose short videos and want X to treat them as **original content** for full revenue sharing.
 
 ## Features
 
