@@ -25,7 +25,7 @@ This one-click PowerShell script was built specifically for creators like @YanaH
 ## How to Use (Super Simple)
 
 1. Create this folder:  
-   `C:\Users\jeffr\Videos\Logo`
+   `C:\Users\USER\Videos\Logo`
 
 2. Put your video and logo inside it.
 
@@ -33,4 +33,4 @@ This one-click PowerShell script was built specifically for creators like @YanaH
 
 4. Double-click the `.ps1` file **or** open PowerShell in that folder and run:
    ```powershell
-   .\X_Ready.ps1
+   .\Edit X.ps1
