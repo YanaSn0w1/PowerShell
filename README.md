@@ -10,7 +10,7 @@ This one-click PowerShell script was built for creators who repurpose short vide
 
 - ✅ Animated **bouncing logo** (smooth sin/cos movement)
 - ✅ Subtle random edits (micro-zoom, gentle pan, camera shake, light vignette, film grain, color tweaks)
-- ✅ Windows TTS voiceover ("YanaHeat daily vibes" by default)
+- ✅ Windows TTS voiceover ("Follow my X/Twitter @YanaHeat" by default)
 - ✅ Timed subtitles at the bottom (full URLs now supported)
 - ✅ Forces perfect X format (`yuv420p` + faststart) — no more "no supported format" errors or traffic cone icon
 - ✅ Outputs a clean `_X_READY.mp4` file ready to upload straight from the X app
@@ -25,7 +25,7 @@ This one-click PowerShell script was built for creators who repurpose short vide
 ## How to Use (Super Simple)
 
 1. Create this folder:  
-   `C:\Users\USER\Videos\Logo`
+   `C:\Users\USERNAME\Videos\Logo`
 
 2. Put your video and logo inside it.
 
